@@ -75,7 +75,9 @@ int main() {
 
 ## OUTPUT
 
-<img width="404" height="266" alt="image" src="https://github.com/user-attachments/assets/1f6fe08a-b7ff-42fd-a25d-a52f81103d17" />
+<img width="395" height="281" alt="image" src="https://github.com/user-attachments/assets/7f0d8b06-cc9b-4050-828e-643a7e9b8e97" />
 
 
 ## RESULT
+
+Thus the given program is verified and executed successfully
